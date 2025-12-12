@@ -1,29 +1,137 @@
 [
-  {"letra": "A", "pregunta": "Empieza por A: Diosa griega del amor y la belleza.", "respuesta": "Afrodita"},
-  {"letra": "B", "pregunta": "Empieza por B: Aparato para orientarse que señala el norte.", "respuesta": "Brujula"},
-  {"letra": "C", "pregunta": "Empieza por C: Capital de Argentina.", "respuesta": "Buenos Aires"},
-  {"letra": "D", "pregunta": "Empieza por D: Animal prehistórico extinguido.", "respuesta": "Dinosaurio"},
-  {"letra": "E", "pregunta": "Empieza por E: Elemento químico necesario para respirar.", "respuesta": "Oxigeno"},
-  {"letra": "F", "pregunta": "Empieza por F: País famoso por la Torre Eiffel.", "respuesta": "Francia"},
-  {"letra": "G", "pregunta": "Empieza por G: Instrumento musical de cuerda que se toca rasgueando.", "respuesta": "Guitarra"},
-  {"letra": "H", "pregunta": "Empieza por H: Líquido vital sin color ni sabor.", "respuesta": "Agua"},
-  {"letra": "I", "pregunta": "Empieza por I: Construcción de hielo de los esquimales.", "respuesta": "Iglu"},
-  {"letra": "J", "pregunta": "Empieza por J: Animal con el cuello muy largo.", "respuesta": "Jirafa"},
-  {"letra": "K", "pregunta": "Empieza por K: País asiático dividido en Norte y Sur.", "respuesta": "Corea"},
-  {"letra": "L", "pregunta": "Empieza por L: Satélite natural de la Tierra.", "respuesta": "Luna"},
-  {"letra": "M", "pregunta": "Empieza por M: Día de la semana entre el lunes y el miércoles.", "respuesta": "Martes"},
-  {"letra": "N", "pregunta": "Empieza por N: Navegante que descubrió América en 1492.", "respuesta": "Colon"},
-  {"letra": "Ñ", "pregunta": "Contiene la Ñ: Mamífero africano parecido al toro.", "respuesta": "Ñu"},
-  {"letra": "O", "pregunta": "Empieza por O: Metal precioso de color dorado.", "respuesta": "Oro"},
-  {"letra": "P", "pregunta": "Empieza por P: Fruta amarilla y alargada.", "respuesta": "Platano"},
-  {"letra": "Q", "pregunta": "Empieza por Q: Alimento derivado de la leche.", "respuesta": "Queso"},
-  {"letra": "R", "pregunta": "Empieza por R: Roedor pequeño que come queso.", "respuesta": "Raton"},
-  {"letra": "S", "pregunta": "Empieza por S: Estrella que nos da luz y calor.", "respuesta": "Sol"},
-  {"letra": "T", "pregunta": "Empieza por T: Vehículo que va sobre rieles.", "respuesta": "Tren"},
-  {"letra": "U", "pregunta": "Empieza por U: Dedo de la mano que se usa para señalar.", "respuesta": "Indice"},
-  {"letra": "V", "pregunta": "Empieza por V: Mamífero volador que duerme boca abajo.", "respuesta": "Murcielago"},
-  {"letra": "W", "pregunta": "Contiene la W: Deporte acuático con tabla y vela (Windsurf).", "respuesta": "Windsurf"},
-  {"letra": "X", "pregunta": "Contiene la X: Planeta del sistema solar con anillos (antes se escribía con X, ahora S, pero válido fonéticamente en juegos o usar 'Galaxia').", "respuesta": "Galaxia"},
-  {"letra": "Y", "pregunta": "Empieza por Y: Alimento lácteo fermentado.", "respuesta": "Yogur"},
-  {"letra": "Z", "pregunta": "Empieza por Z: Vegetal naranja y alargado.", "respuesta": "Zanahoria"}
-]
+      {
+        "letra": "A",
+        "pregunta": "Empieza por A: Deseo vehemente.",
+        "respuesta": "Anhelo"
+      },
+      {
+        "letra": "B",
+        "pregunta": "Empieza por B: Belleza o hermosura, y más particularmente la de la mujer.",
+        "respuesta": "Beldad"
+      },
+      {
+        "letra": "C",
+        "pregunta": "Empieza por C: Sencillo, sin malicia ni doblez.",
+        "respuesta": "Cándido"
+      },
+      {
+        "letra": "D",
+        "pregunta": "Empieza por D: Explicar, aclarar y poner en claro un asunto o materia.",
+        "respuesta": "Dilucidar"
+      },
+      {
+        "letra": "E",
+        "pregunta": "Empieza por E: Dicho o cosa que no se alcanza a comprender, o que difícilmente puede entenderse.",
+        "respuesta": "Enigma"
+      },
+      {
+        "letra": "F",
+        "pregunta": "Empieza por F: Ligero, veleidoso, insustancial.",
+        "respuesta": "Frívolo"
+      },
+      {
+        "letra": "G",
+        "pregunta": "Empieza por G: Sutil, delgado o menudo.",
+        "respuesta": "Grácil"
+      },
+      {
+        "letra": "H",
+        "pregunta": "Empieza por H: Repugnancia a la comida; tedio, aburrimiento.",
+        "respuesta": "Hastío"
+      },
+      {
+        "letra": "I",
+        "pregunta": "Empieza por I: Que no carece de ninguna de sus partes; recto, probo.",
+        "respuesta": "Íntegro"
+      },
+      {
+        "letra": "J",
+        "pregunta": "Empieza por J: Regocijo, fiesta, diversión bulliciosa.",
+        "respuesta": "Jolgorio"
+      },
+      {
+        "letra": "K",
+        "pregunta": "Empieza por K: Mamífero marsupial arborícola de Australia, de aspecto parecido a un osito.",
+        "respuesta": "Koala"
+      },
+      {
+        "letra": "L",
+        "pregunta": "Empieza por L: Dicho de una planta: Que tiene vigor y frondosidad; o persona de aspecto saludable.",
+        "respuesta": "Lozano"
+      },
+      {
+        "letra": "M",
+        "pregunta": "Empieza por M: Que tiene grandeza y elevación de ánimo; generoso.",
+        "respuesta": "Magnánimo"
+      },
+      {
+        "letra": "N",
+        "pregunta": "Empieza por N: Perteneciente o relativo al matrimonio o a la boda.",
+        "respuesta": "Nupcial"
+      },
+      {
+        "letra": "Ñ",
+        "pregunta": "Empieza por Ñ: Añadidura, propina (especialmente en América).",
+        "respuesta": "Ñapa"
+      },
+      {
+        "letra": "O",
+        "pregunta": "Empieza por O: Fallecimiento de una persona.",
+        "respuesta": "Óbito"
+      },
+      {
+        "letra": "P",
+        "pregunta": "Empieza por P: Continuo, incesante, que no tiene intermisión.",
+        "respuesta": "Perenne"
+      },
+      {
+        "letra": "Q",
+        "pregunta": "Empieza por Q: Daño o pérdida grande; acción de quebrantar.",
+        "respuesta": "Quebranto"
+      },
+      {
+        "letra": "R",
+        "pregunta": "Empieza por R: Que se reserva algo de lo que debería decir; desconfiado.",
+        "respuesta": "Reticente"
+      },
+      {
+        "letra": "S",
+        "pregunta": "Empieza por S: Que durará siempre; que, habiendo tenido principio, no tendrá fin.",
+        "respuesta": "Sempiterno"
+      },
+      {
+        "letra": "T",
+        "pregunta": "Empieza por T: Excesivamente imprudente afrontando peligros.",
+        "respuesta": "Temerario"
+      },
+      {
+        "letra": "U",
+        "pregunta": "Empieza por U: Perteneciente o relativo a la ciudad.",
+        "respuesta": "Urbano"
+      },
+      {
+        "letra": "V",
+        "pregunta": "Empieza por V: Que se vuelve o se puede volver fácilmente; capaz de adaptarse.",
+        "respuesta": "Versátil"
+      },
+      {
+        "letra": "W",
+        "pregunta": "Empieza por W: Red informática mundial (World Wide Web).",
+        "respuesta": "Web"
+      },
+      {
+        "letra": "X",
+        "pregunta": "Empieza por X: Elemento químico, gas noble, incoloro e inodoro, usado en lámparas.",
+        "respuesta": "Xenón"
+      },
+      {
+        "letra": "Y",
+        "pregunta": "Empieza por Y: Elemento químico no metálico, de color gris violeta, usado como desinfectante.",
+        "respuesta": "Yodo"
+      },
+      {
+        "letra": "Z",
+        "pregunta": "Empieza por Z: Acción de cruzar alguien el pie por entre los de otra persona para que tropiece y caiga.",
+        "respuesta": "Zancadilla"
+      }
+    ]

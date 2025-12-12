@@ -1,29 +1,137 @@
 [
-  {"letra": "A", "pregunta": "Empieza por A: Continente helado en el polo sur.", "respuesta": "Antartida"},
-  {"letra": "B", "pregunta": "Empieza por B: Baile clásico que requiere mucha disciplina y puntas de pie.", "respuesta": "Ballet"},
-  {"letra": "C", "pregunta": "Empieza por C: Animal del desierto con jorobas.", "respuesta": "Camello"},
-  {"letra": "D", "pregunta": "Empieza por D: Piedra preciosa más dura que existe.", "respuesta": "Diamante"},
-  {"letra": "E", "pregunta": "Empieza por E: País europeo con forma de bota.", "respuesta": "Italia"},
-  {"letra": "F", "pregunta": "Empieza por F: Hongo comestible o venenoso.", "respuesta": "Seta"},
-  {"letra": "G", "pregunta": "Empieza por G: Gigante mitológico con un solo ojo.", "respuesta": "Ciclope"},
-  {"letra": "H", "pregunta": "Empieza por H: Personaje de ficción, mago joven con una cicatriz en la frente.", "respuesta": "Harry Potter"},
-  {"letra": "I", "pregunta": "Empieza por I: Isla famosa de Chile con estatuas gigantes llamadas Moáis.", "respuesta": "Pascua"},
-  {"letra": "J", "pregunta": "Empieza por J: Deporte olímpico de lucha de origen japonés.", "respuesta": "Judo"},
-  {"letra": "K", "pregunta": "Empieza por K: Salsa de tomate dulce y vinagre.", "respuesta": "Ketchup"},
-  {"letra": "L", "pregunta": "Empieza por L: Mamífero que aulla a la luna.", "respuesta": "Lobo"},
-  {"letra": "M", "pregunta": "Empieza por M: Planeta rojo del sistema solar.", "respuesta": "Marte"},
-  {"letra": "N", "pregunta": "Empieza por N: Fenómeno meteorológico que consiste en cristales de hielo que caen del cielo.", "respuesta": "Nieve"},
-  {"letra": "Ñ", "pregunta": "Contiene la Ñ: Dedo más pequeño de la mano.", "respuesta": "Meñique"},
-  {"letra": "O", "pregunta": "Empieza por O: Órgano del cuerpo que bombea sangre.", "respuesta": "Corazon"},
-  {"letra": "P", "pregunta": "Empieza por P: Personaje de madera al que le crecía la nariz si mentía.", "respuesta": "Pinocho"},
-  {"letra": "Q", "pregunta": "Empieza por Q: Medida de peso equivalente a 100 kilogramos (antigua).", "respuesta": "Quintal"},
-  {"letra": "R", "pregunta": "Empieza por R: Color que indica 'pare' en los semáforos.", "respuesta": "Rojo"},
-  {"letra": "S", "pregunta": "Empieza por S: Reptil largo y sin patas.", "respuesta": "Serpiente"},
-  {"letra": "T", "pregunta": "Empieza por T: Bebida caliente hecha con hojas secas.", "respuesta": "Te"},
-  {"letra": "U", "pregunta": "Empieza por U: Objeto que se usa para pintar las uñas.", "respuesta": "Esmalte"},
-  {"letra": "V", "pregunta": "Empieza por V: Estación del año más calurosa.", "respuesta": "Verano"},
-  {"letra": "W", "pregunta": "Empieza por W: Red informática mundial (World Wide Web).", "respuesta": "Web"},
-  {"letra": "X", "pregunta": "Contiene la X: Vehículo de transporte público individual.", "respuesta": "Taxi"},
-  {"letra": "Y", "pregunta": "Empieza por Y: Parte amarilla del huevo.", "respuesta": "Yema"},
-  {"letra": "Z", "pregunta": "Empieza por Z: Animal rayado parecido al caballo.", "respuesta": "Cebra"}
-]
+      {
+        "letra": "A",
+        "pregunta": "Empieza por A: Que puede entenderse de varios modos o admitir distintas interpretaciones.",
+        "respuesta": "Ambiguo"
+      },
+      {
+        "letra": "B",
+        "pregunta": "Empieza por B: Obra de fortificación que sobresale en el encuentro de dos cortinas o lienzos de muralla.",
+        "respuesta": "Baluarte"
+      },
+      {
+        "letra": "C",
+        "pregunta": "Empieza por C: Atraer, ganar la voluntad o el afecto de alguien.",
+        "respuesta": "Cautivar"
+      },
+      {
+        "letra": "D",
+        "pregunta": "Empieza por D: Situación en la que es necesario elegir entre dos opciones igualmente buenas o malas.",
+        "respuesta": "Dilema"
+      },
+      {
+        "letra": "E",
+        "pregunta": "Empieza por E: Identificación mental y afectiva de un sujeto con el estado de ánimo de otro.",
+        "respuesta": "Empatía"
+      },
+      {
+        "letra": "F",
+        "pregunta": "Empieza por F: Que sucede inopinadamente y por casualidad.",
+        "respuesta": "Fortuito"
+      },
+      {
+        "letra": "G",
+        "pregunta": "Empieza por G: Error cometido al hablar o escribir, generalmente por distracción.",
+        "respuesta": "Gazapo"
+      },
+      {
+        "letra": "H",
+        "pregunta": "Empieza por H: Fingimiento de cualidades o sentimientos contrarios a los que verdaderamente se tienen o experimentan.",
+        "respuesta": "Hipocresía"
+      },
+      {
+        "letra": "I",
+        "pregunta": "Empieza por I: Que es propio o característico de la cosa que se expresa por sí misma y no depende de las circunstancias.",
+        "respuesta": "Intrínseco"
+      },
+      {
+        "letra": "J",
+        "pregunta": "Empieza por J: Alegría extrema que se manifiesta con signos externos.",
+        "respuesta": "Júbilo"
+      },
+      {
+        "letra": "K",
+        "pregunta": "Empieza por K: Modalidad de lucha japonesa, que consiste en dar golpes secos con el borde de la mano, los codos o los pies.",
+        "respuesta": "Karate"
+      },
+      {
+        "letra": "L",
+        "pregunta": "Empieza por L: Estado del que está despierto y tiene claridad mental.",
+        "respuesta": "Lucidez"
+      },
+      {
+        "letra": "M",
+        "pregunta": "Empieza por M: Que critica con malignidad e ingenio.",
+        "respuesta": "Mordaz"
+      },
+      {
+        "letra": "N",
+        "pregunta": "Empieza por N: Dañoso, pernicioso, perjudicial.",
+        "respuesta": "Nocivo"
+      },
+      {
+        "letra": "Ñ",
+        "pregunta": "Empieza por Ñ: Pasta de patata, harina y queso que se cuece en agua hirviendo.",
+        "respuesta": "Ñoquis"
+      },
+      {
+        "letra": "O",
+        "pregunta": "Empieza por O: Atrevimiento, audacia o resolución.",
+        "respuesta": "Osadía"
+      },
+      {
+        "letra": "P",
+        "pregunta": "Empieza por P: Dudoso, incierto, irresoluto, confuso.",
+        "respuesta": "Perplejo"
+      },
+      {
+        "letra": "Q",
+        "pregunta": "Empieza por Q: Oposición o falta de armonía entre dos o más personas; discordia.",
+        "respuesta": "Querella"
+      },
+      {
+        "letra": "R",
+        "pregunta": "Empieza por R: Inquietud pesarosa y punzante que queda después de ejecutada una mala acción.",
+        "respuesta": "Remordimiento"
+      },
+      {
+        "letra": "S",
+        "pregunta": "Empieza por S: Altivez y apetito desordenado de ser preferido a otros.",
+        "respuesta": "Soberbia"
+      },
+      {
+        "letra": "T",
+        "pregunta": "Empieza por T: Aburrimiento extremo o estado de ánimo del que soporta algo que no le interesa.",
+        "respuesta": "Tedio"
+      },
+      {
+        "letra": "U",
+        "pregunta": "Empieza por U: Dicho de un conjunto de personas: Que tienen el mismo parecer o dictamen.",
+        "respuesta": "Unánime"
+      },
+      {
+        "letra": "V",
+        "pregunta": "Empieza por V: Que destruye o consume rápidamente.",
+        "respuesta": "Voraz"
+      },
+      {
+        "letra": "W",
+        "pregunta": "Empieza por W: Tecnología que permite conectar ordenadores y otros dispositivos electrónicos a internet de forma inalámbrica.",
+        "respuesta": "Wifi"
+      },
+      {
+        "letra": "X",
+        "pregunta": "Empieza por X: Instrumento musical de percusión formado por láminas de madera.",
+        "respuesta": "Xilófono"
+      },
+      {
+        "letra": "Y",
+        "pregunta": "Empieza por Y: Marido de la hija, respecto de los padres de esta.",
+        "respuesta": "Yerno"
+      },
+      {
+        "letra": "Z",
+        "pregunta": "Empieza por Z: Espacio cubierto situado dentro de una casa, que sirve de entrada a ella y está inmediato a la puerta de la calle.",
+        "respuesta": "Zaguán"
+      }
+    ]

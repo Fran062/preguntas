@@ -1,29 +1,137 @@
 [
-  {"letra": "A", "pregunta": "Empieza por A: Dios griego de la guerra.", "respuesta": "Ares"},
-  {"letra": "B", "pregunta": "Empieza por B: Grupo de música británico famoso por canciones como 'Let it Be'.", "respuesta": "Beatles"},
-  {"letra": "C", "pregunta": "Empieza por C: Órgano principal del sistema nervioso central.", "respuesta": "Cerebro"},
-  {"letra": "D", "pregunta": "Empieza por D: Moneda oficial de Estados Unidos.", "respuesta": "Dolar"},
-  {"letra": "E", "pregunta": "Empieza por E: Escritor español autor de 'Don Quijote de la Mancha'.", "respuesta": "Cervantes"},
-  {"letra": "F", "pregunta": "Empieza por F: Mes del año que a veces tiene 29 días.", "respuesta": "Febrero"},
-  {"letra": "G", "pregunta": "Empieza por G: Combustible fósil gaseoso utilizado para cocinar y calentar.", "respuesta": "Gas"},
-  {"letra": "H", "pregunta": "Empieza por H: Hueso más largo del cuerpo humano, situado en el muslo.", "respuesta": "Femur"},
-  {"letra": "I", "pregunta": "Empieza por I: Fenómeno natural que consiste en la aparición de un arco de colores en el cielo.", "respuesta": "Arcoiris"},
-  {"letra": "J", "pregunta": "Empieza por J: Juego de mesa donde se compran calles y hoteles.", "respuesta": "Monopoly"},
-  {"letra": "K", "pregunta": "Empieza por K: Unidad de medida de la temperatura en el sistema internacional.", "respuesta": "Kelvin"},
-  {"letra": "L", "pregunta": "Empieza por L: Idioma oficial hablado en Brasil.", "respuesta": "Portugues"},
-  {"letra": "M", "pregunta": "Empieza por M: Montaña más alta del mundo.", "respuesta": "Everest"},
-  {"letra": "N", "pregunta": "Empieza por N: Personaje ficticio que vive en el País de Nunca Jamás.", "respuesta": "Peter Pan"},
-  {"letra": "Ñ", "pregunta": "Contiene la Ñ: Mamífero arácnido que teje redes.", "respuesta": "Araña"},
-  {"letra": "O", "pregunta": "Empieza por O: Océano más grande del mundo.", "respuesta": "Pacifico"},
-  {"letra": "P", "pregunta": "Empieza por P: Pintor español creador del Cubismo.", "respuesta": "Picasso"},
-  {"letra": "Q", "pregunta": "Contiene la Q: Deporte que se practica a caballo golpeando una bola con un mazo.", "respuesta": "Polo"},
-  {"letra": "R", "pregunta": "Empieza por R: Reina de Egipto famosa por su belleza y su relación con Julio César.", "respuesta": "Cleopatra"},
-  {"letra": "S", "pregunta": "Empieza por S: Personaje de dibujos animados que vive en una piña debajo del mar.", "respuesta": "Bob Esponja"},
-  {"letra": "T", "pregunta": "Empieza por T: Mamífero marino carnívoro y temido por sus dientes afilados.", "respuesta": "Tiburon"},
-  {"letra": "U", "pregunta": "Empieza por U: País sudamericano cuya capital es Montevideo.", "respuesta": "Uruguay"},
-  {"letra": "V", "pregunta": "Empieza por V: Planeta conocido como el 'lucero del alba'.", "respuesta": "Venus"},
-  {"letra": "W", "pregunta": "Contiene la W: Fruta marrón por fuera y verde por dentro.", "respuesta": "Kiwi"},
-  {"letra": "X", "pregunta": "Contiene la X: Instrumento musical de percusión con láminas de madera.", "respuesta": "Xilofono"},
-  {"letra": "Y", "pregunta": "Empieza por Y: Embarcación de recreo de lujo.", "respuesta": "Yate"},
-  {"letra": "Z", "pregunta": "Empieza por Z: Calzado deportivo cómodo.", "respuesta": "Zapatilla"}
-]
+      {
+        "letra": "A",
+        "pregunta": "Empieza por A: Facultad de la mente que permite aprender, entender, razonar, tomar decisiones y formarse una idea determinada de la realidad.",
+        "respuesta": "Albedrío"
+      },
+      {
+        "letra": "B",
+        "pregunta": "Empieza por B: Conjunto de actividades y trámites que hay que seguir para resolver un asunto de carácter administrativo.",
+        "respuesta": "Burocracia"
+      },
+      {
+        "letra": "C",
+        "pregunta": "Empieza por C: Conexión, relación o unión de unas cosas con otras (generalmente referido a ideas).",
+        "respuesta": "Coherencia"
+      },
+      {
+        "letra": "D",
+        "pregunta": "Empieza por D: Distinguir algo de otra cosa, señalando la diferencia que hay entre ellas.",
+        "respuesta": "Discernir"
+      },
+      {
+        "letra": "E",
+        "pregunta": "Empieza por E: Cualidad que consiste en dar a cada uno lo que se merece en función de sus méritos o condiciones.",
+        "respuesta": "Equidad"
+      },
+      {
+        "letra": "F",
+        "pregunta": "Empieza por F: Delirio furioso, exaltación violenta del ánimo.",
+        "respuesta": "Frenesí"
+      },
+      {
+        "letra": "G",
+        "pregunta": "Empieza por G: Auténtico, legítimo, que no es falso.",
+        "respuesta": "Genuino"
+      },
+      {
+        "letra": "H",
+        "pregunta": "Empieza por H: Persona que niega alguno de los dogmas establecidos por una religión.",
+        "respuesta": "Hereje"
+      },
+      {
+        "letra": "I",
+        "pregunta": "Empieza por I: Facilidad para perdonar o disimular las culpas o para conceder gracias.",
+        "respuesta": "Indulgencia"
+      },
+      {
+        "letra": "J",
+        "pregunta": "Empieza por J: Lenguaje especial y no formal que usan entre sí los individuos de ciertas profesiones y oficios.",
+        "respuesta": "Jerga"
+      },
+      {
+        "letra": "K",
+        "pregunta": "Empieza por K: Construcción ligera, generalmente en forma de pabellón, que se instala en lugares públicos para vender periódicos, flores, etc.",
+        "respuesta": "Kiosco"
+      },
+      {
+        "letra": "L",
+        "pregunta": "Empieza por L: Pleito, disputa o contienda judicial.",
+        "respuesta": "Litigio"
+      },
+      {
+        "letra": "M",
+        "pregunta": "Empieza por M: Traslación del sentido recto de una voz a otro figurado, en virtud de una comparación tácita.",
+        "respuesta": "Metáfora"
+      },
+      {
+        "letra": "N",
+        "pregunta": "Empieza por N: Limpio, terso, claro, que se distingue bien.",
+        "respuesta": "Nítido"
+      },
+      {
+        "letra": "Ñ",
+        "pregunta": "Empieza por Ñ: Tubérculo comestible, parecido a la batata, muy común en países tropicales.",
+        "respuesta": "Ñame"
+      },
+      {
+        "letra": "O",
+        "pregunta": "Empieza por O: Abundancia, riqueza y sobra de bienes.",
+        "respuesta": "Opulencia"
+      },
+      {
+        "letra": "P",
+        "pregunta": "Empieza por P: Que tiene agudeza mental y capacidad para entender las cosas con rapidez.",
+        "respuesta": "Perspicaz"
+      },
+      {
+        "letra": "Q",
+        "pregunta": "Empieza por Q: Número de individuos necesario para que un cuerpo deliberante tome ciertos acuerdos.",
+        "respuesta": "Quórum"
+      },
+      {
+        "letra": "R",
+        "pregunta": "Empieza por R: Correspondencia mutua de una persona o cosa con otra.",
+        "respuesta": "Reciprocidad"
+      },
+      {
+        "letra": "S",
+        "pregunta": "Empieza por S: Alzar en rebelión o motín.",
+        "respuesta": "Sublevar"
+      },
+      {
+        "letra": "T",
+        "pregunta": "Empieza por T: Explicar o interpretar algo con un sentido diferente y generalmente erróneo o malintencionado.",
+        "respuesta": "Tergiversar"
+      },
+      {
+        "letra": "U",
+        "pregunta": "Empieza por U: Parte inferior o escalón, por lo común de piedra, de la puerta o entrada de una casa.",
+        "respuesta": "Umbral"
+      },
+      {
+        "letra": "V",
+        "pregunta": "Empieza por V: Fuerza o actividad notable de las cosas animadas o inanimadas.",
+        "respuesta": "Vigor"
+      },
+      {
+        "letra": "W",
+        "pregunta": "Empieza por W: Bebida alcohólica obtenida por la destilación de la malta fermentada.",
+        "respuesta": "Whisky"
+      },
+      {
+        "letra": "X",
+        "pregunta": "Empieza por X: Impresión o reproducción sacada por un procedimiento electrostático y en seco.",
+        "respuesta": "Xerocopia"
+      },
+      {
+        "letra": "Y",
+        "pregunta": "Empieza por Y: Terreno inhabitado.",
+        "respuesta": "Yermo"
+      },
+      {
+        "letra": "Z",
+        "pregunta": "Empieza por Z: Punto del hemisferio celeste que está justamente encima del observador (Intersección de la vertical con la esfera celeste).",
+        "respuesta": "Zenit"
+      }
+    ]

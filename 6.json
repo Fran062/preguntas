@@ -1,29 +1,137 @@
 [
-  {"letra": "A", "pregunta": "Empieza por A: País de América del Sur cuya capital es Buenos Aires.", "respuesta": "Argentina"},
-  {"letra": "B", "pregunta": "Empieza por B: Conjunto de libros organizados para su lectura o consulta.", "respuesta": "Biblioteca"},
-  {"letra": "C", "pregunta": "Empieza por C: Mamífero carnívoro doméstico.", "respuesta": "Gato"},
-  {"letra": "D", "pregunta": "Empieza por D: Profesional que cuida los dientes.", "respuesta": "Dentista"},
-  {"letra": "E", "pregunta": "Empieza por E: Astro con luz propia.", "respuesta": "Estrella"},
-  {"letra": "F", "pregunta": "Empieza por F: Fruta pequeña y roja a menudo con nata.", "respuesta": "Fresa"},
-  {"letra": "G", "pregunta": "Empieza por G: Ciencia que estudia la superficie de la Tierra.", "respuesta": "Geografia"},
-  {"letra": "H", "pregunta": "Empieza por H: Lugar para curar enfermos.", "respuesta": "Hospital"},
-  {"letra": "I", "pregunta": "Empieza por I: Estación fría del año.", "respuesta": "Invierno"},
-  {"letra": "J", "pregunta": "Empieza por J: Persona que decide en un juicio.", "respuesta": "Juez"},
-  {"letra": "K", "pregunta": "Empieza por K: Canto aficionado con música de fondo.", "respuesta": "Karaoke"},
-  {"letra": "L", "pregunta": "Empieza por L: Primer día de la semana laboral.", "respuesta": "Lunes"},
-  {"letra": "M", "pregunta": "Empieza por M: Dulce producido por abejas.", "respuesta": "Miel"},
-  {"letra": "N", "pregunta": "Empieza por N: Vapor de agua en el cielo.", "respuesta": "Nube"},
-  {"letra": "Ñ", "pregunta": "Contiene la Ñ: Fruta tropical con corona.", "respuesta": "Piña"},
-  {"letra": "O", "pregunta": "Empieza por O: Metal precioso dorado.", "respuesta": "Oro"},
-  {"letra": "P", "pregunta": "Empieza por P: El mejor amigo del hombre.", "respuesta": "Perro"},
-  {"letra": "Q", "pregunta": "Empieza por Q: Personaje de Cervantes, Don...", "respuesta": "Quijote"},
-  {"letra": "R", "pregunta": "Empieza por R: Máquina para medir el tiempo.", "respuesta": "Reloj"},
-  {"letra": "S", "pregunta": "Empieza por S: Mueble para sentarse.", "respuesta": "Silla"},
-  {"letra": "T", "pregunta": "Empieza por T: Infusión británica.", "respuesta": "Te"},
-  {"letra": "U", "pregunta": "Empieza por U: Fruta de la vid.", "respuesta": "Uva"},
-  {"letra": "V", "pregunta": "Empieza por V: Bebida alcohólica de uva.", "respuesta": "Vino"},
-  {"letra": "W", "pregunta": "Empieza por W: Deporte acuático con pelota.", "respuesta": "Waterpolo"},
-  {"letra": "X", "pregunta": "Contiene la X: Aparato para apagar fuegos.", "respuesta": "Extintor"},
-  {"letra": "Y", "pregunta": "Empieza por Y: Embarcación de lujo.", "respuesta": "Yate"},
-  {"letra": "Z", "pregunta": "Empieza por Z: Parque de animales.", "respuesta": "Zoo"}
-]
+      {
+        "letra": "A",
+        "pregunta": "Empieza por A: Afán desmedido de poseer y adquirir riquezas para atesorarlas.",
+        "respuesta": "Avaricia"
+      },
+      {
+        "letra": "B",
+        "pregunta": "Empieza por B: Simpatía y buena voluntad hacia las personas.",
+        "respuesta": "Benevolencia"
+      },
+      {
+        "letra": "C",
+        "pregunta": "Empieza por C: Que tiene brevedad y economía de medios en el modo de expresar un concepto.",
+        "respuesta": "Conciso"
+      },
+      {
+        "letra": "D",
+        "pregunta": "Empieza por D: Hablar o escribir sin concierto ni propósito fijo y determinado.",
+        "respuesta": "Divagar"
+      },
+      {
+        "letra": "E",
+        "pregunta": "Empieza por E: Que duda o desconfía de la verdad, eficacia o posibilidades de algo.",
+        "respuesta": "Escéptico"
+      },
+      {
+        "letra": "F",
+        "pregunta": "Empieza por F: Que dura muy poco tiempo.",
+        "respuesta": "Fugaz"
+      },
+      {
+        "letra": "G",
+        "pregunta": "Empieza por G: Que come con exceso y con ansia.",
+        "respuesta": "Glotón"
+      },
+      {
+        "letra": "H",
+        "pregunta": "Empieza por H: Que huye y se esconde de las gentes.",
+        "respuesta": "Huraño"
+      },
+      {
+        "letra": "I",
+        "pregunta": "Empieza por I: Agradable, hermoso, placentero.",
+        "respuesta": "Idílico"
+      },
+      {
+        "letra": "J",
+        "pregunta": "Empieza por J: Acción y efecto de retirar a alguien del trabajo por razones de edad.",
+        "respuesta": "Jubilación"
+      },
+      {
+        "letra": "K",
+        "pregunta": "Empieza por K: Piloto suicida japonés que tripulaba un avión con explosivos durante la Segunda Guerra Mundial.",
+        "respuesta": "Kamikaze"
+      },
+      {
+        "letra": "L",
+        "pregunta": "Empieza por L: Sombrío, profundamente triste.",
+        "respuesta": "Lúgubre"
+      },
+      {
+        "letra": "M",
+        "pregunta": "Empieza por M: Que se detiene en las cosas más pequeñas y pone mucho cuidado en los detalles.",
+        "respuesta": "Minucioso"
+      },
+      {
+        "letra": "N",
+        "pregunta": "Empieza por N: Que va de un lugar a otro y no tiene residencia fija.",
+        "respuesta": "Nómada"
+      },
+      {
+        "letra": "Ñ",
+        "pregunta": "Empieza por Ñ: Ave corredora americana, muy veloz, que se cría en las llanuras y se parece al avestruz.",
+        "respuesta": "Ñandú"
+      },
+      {
+        "letra": "O",
+        "pregunta": "Empieza por O: Puesta del Sol, o de otro astro, al trasponer el horizonte.",
+        "respuesta": "Ocaso"
+      },
+      {
+        "letra": "P",
+        "pregunta": "Empieza por P: Que madura antes de lo ordinario, o niño con cualidades mentales superiores a su edad.",
+        "respuesta": "Precoz"
+      },
+      {
+        "letra": "Q",
+        "pregunta": "Empieza por Q: Fabuloso, fingido o imaginado sin fundamento.",
+        "respuesta": "Quimérico"
+      },
+      {
+        "letra": "R",
+        "pregunta": "Empieza por R: Sentimiento de amargura o rencor latente.",
+        "respuesta": "Resquemor"
+      },
+      {
+        "letra": "S",
+        "pregunta": "Empieza por S: Astuto y prudente, que prevé y previene las cosas.",
+        "respuesta": "Sagaz"
+      },
+      {
+        "letra": "T",
+        "pregunta": "Empieza por T: Firme, porfiado y pertinaz en un propósito.",
+        "respuesta": "Tenaz"
+      },
+      {
+        "letra": "U",
+        "pregunta": "Empieza por U: Objeto fabricado que se destina a un uso manual y doméstico.",
+        "respuesta": "Utensilio"
+      },
+      {
+        "letra": "V",
+        "pregunta": "Empieza por V: Que tiene una fuerza impetuosa; ardiente y lleno de pasión.",
+        "respuesta": "Vehemente"
+      },
+      {
+        "letra": "W",
+        "pregunta": "Empieza por W: Cámara de vídeo miniaturizada que se puede conectar a un ordenador para grabar imágenes o emitirlas en directo.",
+        "respuesta": "Webcam"
+      },
+      {
+        "letra": "X",
+        "pregunta": "Empieza por X: Arte de grabar en madera.",
+        "respuesta": "Xilografía"
+      },
+      {
+        "letra": "Y",
+        "pregunta": "Empieza por Y: Instrumento de madera al cual se uncen por el cuello las mulas (figuradamente, opresión).",
+        "respuesta": "Yugo"
+      },
+      {
+        "letra": "Z",
+        "pregunta": "Empieza por Z: Mover a una persona o cosa de un lado para otro con agitación.",
+        "respuesta": "Zarandear"
+      }
+    ]

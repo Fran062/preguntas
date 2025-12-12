@@ -1,29 +1,137 @@
 [
-  {"letra": "A", "pregunta": "Empieza por A: Planta que se cultiva para la producción de granos como el trigo o el maíz.", "respuesta": "Agricultura"},
-  {"letra": "B", "pregunta": "Empieza por B: Deporte que se juega con una pelota naranja y canastas.", "respuesta": "Baloncesto"},
-  {"letra": "C", "pregunta": "Empieza por C: Héroe de cómic que viste de azul y rojo y lleva un escudo con una estrella.", "respuesta": "Capitan America"},
-  {"letra": "D", "pregunta": "Empieza por D: Enfermedad caracterizada por niveles elevados de azúcar en sangre.", "respuesta": "Diabetes"},
-  {"letra": "E", "pregunta": "Empieza por E: Monumento egipcio con cuerpo de león y cabeza humana.", "respuesta": "Esfinge"},
-  {"letra": "F", "pregunta": "Empieza por F: Fenómeno físico por el cual los objetos caen al suelo.", "respuesta": "Gravedad"},
-  {"letra": "G", "pregunta": "Empieza por G: Premio cinematográfico español conocido como el 'cabezón'.", "respuesta": "Goya"},
-  {"letra": "H", "pregunta": "Empieza por H: Héroe mitológico griego famoso por su fuerza increíble.", "respuesta": "Hercules"},
-  {"letra": "I", "pregunta": "Empieza por I: País asiático famoso por el Taj Mahal.", "respuesta": "India"},
-  {"letra": "J", "pregunta": "Empieza por J: Planeta más grande del Sistema Solar.", "respuesta": "Jupiter"},
-  {"letra": "K", "pregunta": "Empieza por K: Arte marcial japonés que significa 'camino de la mano vacía'.", "respuesta": "Karate"},
-  {"letra": "L", "pregunta": "Empieza por L: Objeto que emite luz para iluminar una habitación.", "respuesta": "Lampara"},
-  {"letra": "M", "pregunta": "Empieza por M: Apellido del pintor del cuadro 'La Gioconda'.", "respuesta": "Mona Lisa"},
-  {"letra": "N", "pregunta": "Empieza por N: Parte del día que sigue a la tarde y precede a la mañana.", "respuesta": "Noche"},
-  {"letra": "Ñ", "pregunta": "Contiene la Ñ: Estación del año en la que caen las hojas de los árboles.", "respuesta": "Otoño"},
-  {"letra": "O", "pregunta": "Empieza por O: Sentido corporal que permite percibir los olores.", "respuesta": "Olfato"},
-  {"letra": "P", "pregunta": "Empieza por P: Capital de Francia.", "respuesta": "Paris"},
-  {"letra": "Q", "pregunta": "Empieza por Q: Ciencia que estudia la composición y las propiedades de la materia.", "respuesta": "Quimica"},
-  {"letra": "R", "pregunta": "Empieza por R: Flor con espinas en el tallo, símbolo del amor.", "respuesta": "Rosa"},
-  {"letra": "S", "pregunta": "Empieza por S: Instrumento musical de viento hecho de metal, inventado por Adolphe Sax.", "respuesta": "Saxofon"},
-  {"letra": "T", "pregunta": "Empieza por T: Barco famoso que se hundió en 1912 tras chocar con un iceberg.", "respuesta": "Titanic"},
-  {"letra": "U", "pregunta": "Empieza por U: Institución de enseñanza superior donde se obtienen grados académicos.", "respuesta": "Universidad"},
-  {"letra": "V", "pregunta": "Empieza por V: Color que se obtiene mezclando azul y rojo (o magenta).", "respuesta": "Violeta"},
-  {"letra": "W", "pregunta": "Empieza por W: Bebida alcohólica destilada de grano, originaria de Escocia o Irlanda.", "respuesta": "Whisky"},
-  {"letra": "X", "pregunta": "Contiene la X: Gas noble utilizado en faros de automóviles y flashes de cámaras.", "respuesta": "Xenon"},
-  {"letra": "Y", "pregunta": "Empieza por Y: Deporte japonés que consiste en derribar al oponente con llaves.", "respuesta": "Yudo"},
-  {"letra": "Z", "pregunta": "Empieza por Z: Ciencia que estudia a los animales.", "respuesta": "Zoologia"}
-]
+      {
+        "letra": "A",
+        "pregunta": "Empieza por A: Dejadez, indolencia, falta de vigor o energía.",
+        "respuesta": "Apatía"
+      },
+      {
+        "letra": "B",
+        "pregunta": "Empieza por B: Que es trivial, común, insustancial.",
+        "respuesta": "Banal"
+      },
+      {
+        "letra": "C",
+        "pregunta": "Empieza por C: Acuerdo producido por consentimiento entre todos los miembros de un grupo.",
+        "respuesta": "Consenso"
+      },
+      {
+        "letra": "D",
+        "pregunta": "Empieza por D: Doctrina política que defiende la intervención del pueblo en el gobierno.",
+        "respuesta": "Democracia"
+      },
+      {
+        "letra": "E",
+        "pregunta": "Empieza por E: Que dura poco tiempo o es pasajero.",
+        "respuesta": "Efímero"
+      },
+      {
+        "letra": "F",
+        "pregunta": "Empieza por F: Engaño, fraude o mentira con que se intenta dañar a alguien.",
+        "respuesta": "Falacia"
+      },
+      {
+        "letra": "G",
+        "pregunta": "Empieza por G: Apetito desordenado de comer y beber.",
+        "respuesta": "Gula"
+      },
+      {
+        "letra": "H",
+        "pregunta": "Empieza por H: Acción ilustre y heroica.",
+        "respuesta": "Hazaña"
+      },
+      {
+        "letra": "I",
+        "pregunta": "Empieza por I: Que no se puede explicar con palabras.",
+        "respuesta": "Inefable"
+      },
+      {
+        "letra": "J",
+        "pregunta": "Empieza por J: Alabanza propia, desordenada y presuntuosa.",
+        "respuesta": "Jactancia"
+      },
+      {
+        "letra": "K",
+        "pregunta": "Empieza por K: Salsa de tomate condimentada con vinagre, azúcar y especias.",
+        "respuesta": "Kétchup"
+      },
+      {
+        "letra": "L",
+        "pregunta": "Empieza por L: Persona que habla mucho o tiene mucha facilidad de palabra.",
+        "respuesta": "Locuaz"
+      },
+      {
+        "letra": "M",
+        "pregunta": "Empieza por M: Lección o enseñanza que se deduce de un cuento, fábula o anécdota.",
+        "respuesta": "Moraleja"
+      },
+      {
+        "letra": "N",
+        "pregunta": "Empieza por N: Sentimiento de pena por la lejanía, la ausencia, la privación o la pérdida de alguien o algo queridos.",
+        "respuesta": "Nostalgia"
+      },
+      {
+        "letra": "Ñ",
+        "pregunta": "Empieza por Ñ: Mamífero rumiante africano de la familia de los antílopes, de cabeza grande y cuernos curvos.",
+        "respuesta": "Ñu"
+      },
+      {
+        "letra": "O",
+        "pregunta": "Empieza por O: Sueño, representación fantástica de sucesos e imágenes mientras se duerme.",
+        "respuesta": "Onírico"
+      },
+      {
+        "letra": "P",
+        "pregunta": "Empieza por P: Idea extraña o contraria a la común opinión y al sentir de las personas.",
+        "respuesta": "Paradoja"
+      },
+      {
+        "letra": "Q",
+        "pregunta": "Empieza por Q: Estado de la empresa mercantil que no puede hacer frente a sus obligaciones de pago.",
+        "respuesta": "Quiebra"
+      },
+      {
+        "letra": "R",
+        "pregunta": "Empieza por R: Arte de bien decir, de dar al lenguaje escrito o hablado eficacia bastante para deleitar, persuadir o conmover.",
+        "respuesta": "Retórica"
+      },
+      {
+        "letra": "S",
+        "pregunta": "Empieza por S: Recelo, desconfianza o sospecha ante algo o alguien.",
+        "respuesta": "Suspicacia"
+      },
+      {
+        "letra": "T",
+        "pregunta": "Empieza por T: Callado, silencioso, que le molesta hablar.",
+        "respuesta": "Taciturno"
+      },
+      {
+        "letra": "U",
+        "pregunta": "Empieza por U: Plan, proyecto, doctrina o sistema deseables que parecen de muy difícil realización.",
+        "respuesta": "Utopía"
+      },
+      {
+        "letra": "V",
+        "pregunta": "Empieza por V: Fallo o decisión dictada por un jurado o un juez.",
+        "respuesta": "Veredicto"
+      },
+      {
+        "letra": "W",
+        "pregunta": "Empieza por W: Deporte de equipo que se practica en una piscina, en el cual los jugadores tratan de introducir el balón en la portería contraria.",
+        "respuesta": "Waterpolo"
+      },
+      {
+        "letra": "X",
+        "pregunta": "Empieza por X: Simpatía o estimación hacia los extranjeros.",
+        "respuesta": "Xenofilia"
+      },
+      {
+        "letra": "Y",
+        "pregunta": "Empieza por Y: Materia textil que se saca de la corteza interior de una planta del mismo nombre.",
+        "respuesta": "Yute"
+      },
+      {
+        "letra": "Z",
+        "pregunta": "Empieza por Z: Cariñoso y afable en el trato, a veces con exceso o empalago.",
+        "respuesta": "Zalamero"
+      }
+    ]
